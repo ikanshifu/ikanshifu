@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I work on Applied AI & On-Device ML stuff:
+I like applying software to hardware, to put it simply, I work on Applied AI & On-Device ML stuff:
 
 * [Uhug!](https://github.com/IoT-dari-SD/lansia-ios-mobile): I built an on-device machine learning app utilizing Apple CoreML that listens for coughs and processes real-time hardware sensor vitals.
 * [Handwriting Text Recognizer](https://github.com/ikanshifu/Handwriting-Text-Recognition.git): I deployed a VGG-BiLSTM-CTC computer vision model pipeline for cursive text recognition.
